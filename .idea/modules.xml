@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLessons.iml" filepath="$PROJECT_DIR$/AndroidLessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" filepath="$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0081_ViewById/p0081_ViewById.iml" filepath="$PROJECT_DIR$/P0081_ViewById/p0081_ViewById.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0091_OnClickButtons/p0091_OnClickButtons.iml" filepath="$PROJECT_DIR$/p0091_OnClickButtons/p0091_OnClickButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101_Listner/p0101_Listner.iml" filepath="$PROJECT_DIR$/p0101_Listner/p0101_Listner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102_ActivityListner/p0102_ActivityListner.iml" filepath="$PROJECT_DIR$/p0102_ActivityListner/p0102_ActivityListner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111_ResValues/p0111_ResValues.iml" filepath="$PROJECT_DIR$/p0111_ResValues/p0111_ResValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" filepath="$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" />
+    </modules>
+  </component>
+</project>
