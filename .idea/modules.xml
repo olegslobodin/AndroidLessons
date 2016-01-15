@@ -13,6 +13,11 @@
       <module fileurl="file://$PROJECT_DIR$/p0102_ActivityListner/p0102_ActivityListner.iml" filepath="$PROJECT_DIR$/p0102_ActivityListner/p0102_ActivityListner.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0111_ResValues/p0111_ResValues.iml" filepath="$PROJECT_DIR$/p0111_ResValues/p0111_ResValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" filepath="$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131_MenuSimple/p0131_MenuSimple.iml" filepath="$PROJECT_DIR$/p0131_MenuSimple/p0131_MenuSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_MenuAdvanced/p0141_MenuAdvanced.iml" filepath="$PROJECT_DIR$/p0141_MenuAdvanced/p0141_MenuAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0151_ContextMenu/p0151_ContextMenu.iml" filepath="$PROJECT_DIR$/p0151_ContextMenu/p0151_ContextMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" filepath="$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" filepath="$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" />
     </modules>
   </component>
 </project>

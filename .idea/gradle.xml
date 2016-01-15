@@ -20,6 +20,11 @@
             <option value="$PROJECT_DIR$/p0102_ActivityListner" />
             <option value="$PROJECT_DIR$/p0111_ResValues" />
             <option value="$PROJECT_DIR$/p0121_LogAndMess" />
+            <option value="$PROJECT_DIR$/p0131_MenuSimple" />
+            <option value="$PROJECT_DIR$/p0141_MenuAdvanced" />
+            <option value="$PROJECT_DIR$/p0151_ContextMenu" />
+            <option value="$PROJECT_DIR$/p0161_DynamicLayout" />
+            <option value="$PROJECT_DIR$/p0171_DynamicLayout2" />
           </set>
         </option>
       </GradleProjectSettings>

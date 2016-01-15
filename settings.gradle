@@ -1,1 +1,1 @@
-include ':app', ':p0031firstproject', ':p0051layoutfiles', ':p0072layoutprop', ':p0081_ViewById', ':p0091_OnClickButtons', ':p0101_Listner', ':p0102_ActivityListner', ':p0111_ResValues', ':p0121_LogAndMess'
+include ':app', ':p0031firstproject', ':p0051layoutfiles', ':p0072layoutprop', ':p0081_ViewById', ':p0091_OnClickButtons', ':p0101_Listner', ':p0102_ActivityListner', ':p0111_ResValues', ':p0121_LogAndMess', ':p0131_MenuSimple', ':p0141_MenuAdvanced', ':p0151_ContextMenu', ':p0161_DynamicLayout', ':p0171_DynamicLayout2'
