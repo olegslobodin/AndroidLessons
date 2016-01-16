@@ -25,6 +25,12 @@
             <option value="$PROJECT_DIR$/p0151_ContextMenu" />
             <option value="$PROJECT_DIR$/p0161_DynamicLayout" />
             <option value="$PROJECT_DIR$/p0171_DynamicLayout2" />
+            <option value="$PROJECT_DIR$/p0181_DynamicLayout3" />
+            <option value="$PROJECT_DIR$/p0191_SimpleCalculator" />
+            <option value="$PROJECT_DIR$/p0201_SimpleAnimation" />
+            <option value="$PROJECT_DIR$/p0211_TwoActivity" />
+            <option value="$PROJECT_DIR$/p0231_OneActivityState" />
+            <option value="$PROJECT_DIR$/p0241_TwoActivityState" />
           </set>
         </option>
       </GradleProjectSettings>

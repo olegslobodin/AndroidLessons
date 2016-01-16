@@ -18,6 +18,12 @@
       <module fileurl="file://$PROJECT_DIR$/p0151_ContextMenu/p0151_ContextMenu.iml" filepath="$PROJECT_DIR$/p0151_ContextMenu/p0151_ContextMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" filepath="$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" filepath="$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0181_DynamicLayout3/p0181_DynamicLayout3.iml" filepath="$PROJECT_DIR$/p0181_DynamicLayout3/p0181_DynamicLayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0191_SimpleCalculator/p0191_SimpleCalculator.iml" filepath="$PROJECT_DIR$/p0191_SimpleCalculator/p0191_SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0201_SimpleAnimation/p0201_SimpleAnimation.iml" filepath="$PROJECT_DIR$/p0201_SimpleAnimation/p0201_SimpleAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" filepath="$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" filepath="$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" filepath="$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" />
     </modules>
   </component>
 </project>
