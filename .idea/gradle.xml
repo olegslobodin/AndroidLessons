@@ -31,6 +31,15 @@
             <option value="$PROJECT_DIR$/p0211_TwoActivity" />
             <option value="$PROJECT_DIR$/p0231_OneActivityState" />
             <option value="$PROJECT_DIR$/p0241_TwoActivityState" />
+            <option value="$PROJECT_DIR$/p0261_IntentFilter" />
+            <option value="$PROJECT_DIR$/p0271_GetIntentAction" />
+            <option value="$PROJECT_DIR$/p0281_IntentExtras" />
+            <option value="$PROJECT_DIR$/p0291_SimpleActivityResult" />
+            <option value="$PROJECT_DIR$/p0301_ActivityResult" />
+            <option value="$PROJECT_DIR$/p0311_SimpleIntents" />
+            <option value="$PROJECT_DIR$/p0321_SimpleBrowser" />
+            <option value="$PROJECT_DIR$/p0331_SharedPreferences" />
+            <option value="$PROJECT_DIR$/p0341_SimpleSQLite" />
           </set>
         </option>
       </GradleProjectSettings>

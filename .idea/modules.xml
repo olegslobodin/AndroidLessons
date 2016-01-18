@@ -24,6 +24,15 @@
       <module fileurl="file://$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" filepath="$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" filepath="$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" filepath="$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0261_IntentFilter/p0261_IntentFilter.iml" filepath="$PROJECT_DIR$/p0261_IntentFilter/p0261_IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0271_GetIntentAction/p0271_GetIntentAction.iml" filepath="$PROJECT_DIR$/p0271_GetIntentAction/p0271_GetIntentAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0281_IntentExtras/p0281_IntentExtras.iml" filepath="$PROJECT_DIR$/p0281_IntentExtras/p0281_IntentExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0291_SimpleActivityResult/p0291_SimpleActivityResult.iml" filepath="$PROJECT_DIR$/p0291_SimpleActivityResult/p0291_SimpleActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0301_ActivityResult/p0301_ActivityResult.iml" filepath="$PROJECT_DIR$/p0301_ActivityResult/p0301_ActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0311_SimpleIntents/p0311_SimpleIntents.iml" filepath="$PROJECT_DIR$/p0311_SimpleIntents/p0311_SimpleIntents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0321_SimpleBrowser/p0321_SimpleBrowser.iml" filepath="$PROJECT_DIR$/p0321_SimpleBrowser/p0321_SimpleBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0331_SharedPreferences/p0331_SharedPreferences.iml" filepath="$PROJECT_DIR$/p0331_SharedPreferences/p0331_SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0341_SimpleSQLite/p0341_SimpleSQLite.iml" filepath="$PROJECT_DIR$/p0341_SimpleSQLite/p0341_SimpleSQLite.iml" />
     </modules>
   </component>
 </project>

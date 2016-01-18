@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    final String TAG = "STATE: ";
+    final String TAG = "STATE";
     Button btnGoTo2;
 
     @Override
