@@ -40,6 +40,17 @@
             <option value="$PROJECT_DIR$/p0321_SimpleBrowser" />
             <option value="$PROJECT_DIR$/p0331_SharedPreferences" />
             <option value="$PROJECT_DIR$/p0341_SimpleSQLite" />
+            <option value="$PROJECT_DIR$/p0351_SQLite" />
+            <option value="$PROJECT_DIR$/p0361_SQLiteQuery" />
+            <option value="$PROJECT_DIR$/p0371_SQLiteInnerJoin" />
+            <option value="$PROJECT_DIR$/p0381_SQLiteTransaction" />
+            <option value="$PROJECT_DIR$/p0391_SQLiteOnUpgradeDB" />
+            <option value="$PROJECT_DIR$/p0401_LayoutInflater" />
+            <option value="$PROJECT_DIR$/p0411_LayoutInflaterList" />
+            <option value="$PROJECT_DIR$/p0421_SimpleList" />
+            <option value="$PROJECT_DIR$/p0431_SimpleListChoice" />
+            <option value="$PROJECT_DIR$/p0441_SimpleListEvents" />
+            <option value="$PROJECT_DIR$/p0451_ExpandableList" />
           </set>
         </option>
       </GradleProjectSettings>
