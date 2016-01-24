@@ -54,6 +54,7 @@
             <option value="$PROJECT_DIR$/p0481_SimpleAdapter" />
             <option value="$PROJECT_DIR$/p0491_SimpleAdapterCustom1" />
             <option value="$PROJECT_DIR$/p0501_SimpleAdapterCustom2" />
+            <option value="$PROJECT_DIR$/p0511_SimpleAdapterData" />
           </set>
         </option>
       </GradleProjectSettings>

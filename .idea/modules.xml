@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0481_SimpleAdapter/p0481_SimpleAdapter.iml" filepath="$PROJECT_DIR$/p0481_SimpleAdapter/p0481_SimpleAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" filepath="$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" filepath="$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511_SimpleAdapterData/p0511_SimpleAdapterData.iml" filepath="$PROJECT_DIR$/p0511_SimpleAdapterData/p0511_SimpleAdapterData.iml" />
     </modules>
   </component>
 </project>
