@@ -11,7 +11,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0081_ViewById" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0031firstproject" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
             <option value="$PROJECT_DIR$/p0072layoutprop" />
@@ -51,6 +50,10 @@
             <option value="$PROJECT_DIR$/p0431_SimpleListChoice" />
             <option value="$PROJECT_DIR$/p0441_SimpleListEvents" />
             <option value="$PROJECT_DIR$/p0451_ExpandableList" />
+            <option value="$PROJECT_DIR$/p0461_ExpandableListEvents" />
+            <option value="$PROJECT_DIR$/p0481_SimpleAdapter" />
+            <option value="$PROJECT_DIR$/p0491_SimpleAdapterCustom1" />
+            <option value="$PROJECT_DIR$/p0501_SimpleAdapterCustom2" />
           </set>
         </option>
       </GradleProjectSettings>

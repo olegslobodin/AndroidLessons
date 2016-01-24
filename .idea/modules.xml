@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidLessons.iml" filepath="$PROJECT_DIR$/AndroidLessons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" filepath="$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" />
@@ -44,6 +43,10 @@
       <module fileurl="file://$PROJECT_DIR$/p0431_SimpleListChoice/p0431_SimpleListChoice.iml" filepath="$PROJECT_DIR$/p0431_SimpleListChoice/p0431_SimpleListChoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0441_SimpleListEvents/p0441_SimpleListEvents.iml" filepath="$PROJECT_DIR$/p0441_SimpleListEvents/p0441_SimpleListEvents.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0451_ExpandableList/p0451_ExpandableList.iml" filepath="$PROJECT_DIR$/p0451_ExpandableList/p0451_ExpandableList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461_ExpandableListEvents/p0461_ExpandableListEvents.iml" filepath="$PROJECT_DIR$/p0461_ExpandableListEvents/p0461_ExpandableListEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0481_SimpleAdapter/p0481_SimpleAdapter.iml" filepath="$PROJECT_DIR$/p0481_SimpleAdapter/p0481_SimpleAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" filepath="$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" filepath="$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" />
     </modules>
   </component>
 </project>
