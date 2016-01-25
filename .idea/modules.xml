@@ -48,6 +48,13 @@
       <module fileurl="file://$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" filepath="$PROJECT_DIR$/p0491_SimpleAdapterCustom1/p0491_SimpleAdapterCustom1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" filepath="$PROJECT_DIR$/p0501_SimpleAdapterCustom2/p0501_SimpleAdapterCustom2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0511_SimpleAdapterData/p0511_SimpleAdapterData.iml" filepath="$PROJECT_DIR$/p0511_SimpleAdapterData/p0511_SimpleAdapterData.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/p0531_SimpleCursorTreeAdapter/p0531_SimpleCursorTreeAdapter.iml" filepath="$PROJECT_DIR$/p0531_SimpleCursorTreeAdapter/p0531_SimpleCursorTreeAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0541_CustomAdapter/p0541_CustomAdapter.iml" filepath="$PROJECT_DIR$/p0541_CustomAdapter/p0541_CustomAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0551_HeaderFooter/p0551_HeaderFooter.iml" filepath="$PROJECT_DIR$/p0551_HeaderFooter/p0551_HeaderFooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0561_Spinner/p0561_Spinner.iml" filepath="$PROJECT_DIR$/p0561_Spinner/p0561_Spinner.iml" />
+=======
+>>>>>>> 64b338bbd76ab7cfb31d6601268f8e4473b66a0e
     </modules>
   </component>
 </project>
