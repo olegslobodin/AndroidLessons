@@ -3,9 +3,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:\Program Files\Android Studio\gradle\gradle-2.8" />
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
@@ -55,6 +54,10 @@
             <option value="$PROJECT_DIR$/p0491_SimpleAdapterCustom1" />
             <option value="$PROJECT_DIR$/p0501_SimpleAdapterCustom2" />
             <option value="$PROJECT_DIR$/p0511_SimpleAdapterData" />
+            <option value="$PROJECT_DIR$/p0531_SimpleCursorTreeAdapter" />
+            <option value="$PROJECT_DIR$/p0541_CustomAdapter" />
+            <option value="$PROJECT_DIR$/p0551_HeaderFooter" />
+            <option value="$PROJECT_DIR$/p0561_Spinner" />
           </set>
         </option>
       </GradleProjectSettings>
